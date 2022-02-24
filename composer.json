@@ -1,7 +1,11 @@
 {
     "name": "marketplacer1/magento2-plugin-metapackage",
+    "description": "Marketplacer Magento 2 Connector metapackage",
     "version": "2.0.0",
     "type": "metapackage",
+    "license": [
+        "proprietary"
+    ],
     "require": {
         "marketplacer1/magento2-plugin-base": "~2.0.0",
         "marketplacer1/magento2-plugin-seller-api": "~2.0.0",
