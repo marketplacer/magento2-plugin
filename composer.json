@@ -1,6 +1,5 @@
 {
     "name": "marketplacer/magento2-plugin-metapackage",
-    "version": "2.0.0",
     "description": "Marketplacer Magento 2 Connector metapackage",
     "license": "proprietary",
     "type": "metapackage",
