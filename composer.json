@@ -4,11 +4,11 @@
     "license": "proprietary",
     "type": "metapackage",
     "require": {
-        "marketplacer/magento2-plugin-base": "^2.0.0",
-        "marketplacer/magento2-plugin-seller-api": "^2.0.0",
-        "marketplacer/magento2-plugin-brand-api": "^2.0.0",
-        "marketplacer/magento2-plugin-seller": "^2.0.0",
-        "marketplacer/magento2-plugin-brand": "^2.0.0",
-        "marketplacer/magento2-plugin-marketplacer": "^2.0.0"
+        "marketplacer/magento2-plugin-base": "~2.0.0",
+        "marketplacer/magento2-plugin-seller-api": "~2.0.0",
+        "marketplacer/magento2-plugin-brand-api": "~2.0.0",
+        "marketplacer/magento2-plugin-seller": "~2.0.0",
+        "marketplacer/magento2-plugin-brand": "~2.0.0",
+        "marketplacer/magento2-plugin-marketplacer": "~2.0.0"
     }
 }
