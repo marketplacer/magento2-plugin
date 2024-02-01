@@ -13,6 +13,6 @@
     },
     "suggest": {
         "marketplacer/magento2-plugin-avalara-integration": "~1.0.0",
-        "marketplacer/magento2-plugin-seller-shipping": "~1.0.0"
+        "marketplacer/magento2-plugin-seller-shipping": "~1.0.1"
     }
 }
