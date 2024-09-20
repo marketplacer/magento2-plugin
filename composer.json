@@ -12,7 +12,7 @@
         "marketplacer/magento2-plugin-marketplacer": "~2.1.0"
     },
     "suggest": {
-        "marketplacer/magento2-plugin-avalara-integration": "~1.0.0",
-        "marketplacer/magento2-plugin-seller-shipping": "~1.0.1"
+        "marketplacer/magento2-plugin-avalara-integration": "~1.0.1",
+        "marketplacer/magento2-plugin-seller-shipping": "~1.0.4"
     }
 }
